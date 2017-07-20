@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron|Russo+One');
+body {
+  background-color: black;
+  margin-top: 50px;
+}
+
+.box,
+boxTime {
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  text-shadow: 2px 3px 6px;
+  
+}
+
+h1,
+.buttonTest {
+  font-family: Russo One;
+}
+
+button.buttonTest {
+  margin-top: 70px;
+  font-size: 1.3em;
+  text-shadow: 3px 3px 5px darkblue;
+}
+
+p.buttonChangeTemp button{
+  color: white;
+  text-shadow: 1px 2px 3px red;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+#tempNowParagraph {
+  color: red;
+  font-weight: bold;
+  text-shadow: 1px 2px 3px #293366;
+  margin-top: 5px;
+}
+
+div.result {
+  margin-top: 40px;
+}
+
+div.innerResult {
+  padding: 30px 5px 5px 10px;
+}
+
+
+/*This is the new class that is applied to the paragraphs*/
+
+.newDesignLocal {
+  font-weight: 400;
+  word-spacing: 0.1em;
+  letter-spacing: 0.2em;
+  font-family: orbitron, sans-serif;
+  text-shadow: 1px 1px 4px;
+}
+
+.resultButton {
+  margin-top: 40px;
+}
+
+/*from till the end is the footer*/
+.lastParagraph {
+  font-weight: bold;
+  margin-top: 100px;
+}
+
+.coded {
+  color: #447944;
+  text-shadow: 0.6pt 0.9pt 1.2pt white; 
+}
+
+.myName {
+  color: #063D4F;
+  text-shadow: 2px 2px 9px #7E5705;
+}
+
+.coffee {
+  max-height: 20px;
+  max-width: 25px;
+}
+
+.learning {
+  max-height: 20px;
+  max-width: 25px;
+ 
+}
