@@ -12,7 +12,7 @@
 ## Credits
 
 #### Frameworks/Libraries/Preprocessors:
-- [jQuery]((https://jquery.com/)
+- [jQuery](https://jquery.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Bootstrap](https://v4-alpha.getbootstrap.com/)
 
