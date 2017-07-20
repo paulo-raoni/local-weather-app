@@ -5,9 +5,14 @@
 ## Features
 
 - Checkes the local weather using the browser's geolocation system.
+
 - As the weather changes the animated gif representing it also changes.
+
 - Information about time and date are given.
+
 - Can toggle between Fahrenheit and Celsius.
+
+- Responsive designed for mobile browsers.
 
 ## Credits
 
