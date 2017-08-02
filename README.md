@@ -12,6 +12,8 @@
 
 - Can toggle between Fahrenheit and Celsius.
 
+- Uses AJAX technique to catch weather features from apixu.com server.
+
 - Responsive designed for mobile browsers.
 
 ## Credits
@@ -20,17 +22,16 @@
 - [jQuery](https://jquery.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Bootstrap](https://v4-alpha.getbootstrap.com/)
+- [Apixu API](https://www.apixu.com/)
 
 #### IDE:
 
 - [CODEPEN](https://codepen.io/)
-
 - [Brackets](http://brackets.io/)
 
 #### Special Thanks to:
 
 - [Free Code Camp](https://www.freecodecamp.com/) and [Quincy Larson](https://www.linkedin.com/in/quincylarson/).
-
 - [StackOverFlow](https://stackoverflow.com/) 
 
 ## License
